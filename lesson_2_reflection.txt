@@ -16,6 +16,10 @@ Fill in your answer here: A staging area is a temporary storage area for files
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Fill in your answer here: The staging area is a platform where I can check all 
+                          related logical changed files are put together before
+						  submitting to the repository. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
