@@ -18,6 +18,7 @@ docs does?
     Fill in your answer here: Pros: - Manual saving of a new version could reduce
 									  the number of version if done automatically.
 									- Each version has a specify purpose
+									- Save the memory space.
 							  Cons: - There exists a risk of losing an important 
 									  change if a power failure does occur.
 									- The progrmmer may not have the custom of   
