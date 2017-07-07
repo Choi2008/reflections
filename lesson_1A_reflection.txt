@@ -48,4 +48,4 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here: In my project development and document control.
-							  In the planning of work schedule.
+							  
