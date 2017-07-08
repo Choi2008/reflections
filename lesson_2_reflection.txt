@@ -23,6 +23,11 @@ Fill in your answer here: The staging area is a platform where I can check all
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Fill in your answer here: Branches would be helpful if we don't want to modify
+                          the master file.  
+						  Branch allows us to test a copy of the master file in
+						  a branch without changing the master file.						  
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
