@@ -30,6 +30,10 @@ Fill in your answer here: Branches would be helpful if we don't want to modify
 
 How do the diagrams help you visualize the branch structure?
 
+Fill in your answer here: The diagram shows how many branches exit in the 
+					      development, what is the purpose of each commitments,
+						  and how many commitments are there.  
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
