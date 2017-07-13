@@ -37,5 +37,11 @@ Fill in your answer here: The diagram shows how many branches exit in the
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Fill in your answer here: The result of merging two branches together creates a 
+                          file that has the unions of all changes except those 
+						  rejected by either branch.  The diagram help to 
+						  visualize the history on either side that leads to the 
+						  merging.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
