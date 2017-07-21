@@ -10,13 +10,20 @@ automatically stay up-to-date with your remote repository?
 
     Fill in your answer here: This is because the changes happen in the 
                               remote is done by third parties, which might not always
-			      be adopted by the owner. Hence, manual pull on changes
-			      is a wise selection.
+							  be adopted by the owner. Hence, manual pull on changes
+			                  is a wise selection.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fill in your answer here: Forks are a copy of a repository in the GitHub of somebody
+							  to one's own repository in the GitHub without a direct 
+							  linkage with the original repository; whereas, clones 
+							  are a copy of a repository in the GitHub of somebody to 
+							  one's own local PC with a direct linkage for reciprocal
+							  updating from either side.  Branches are a copy of 
+							  a master files in a repository, whose modification
+							  will not affect the files in the original master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
